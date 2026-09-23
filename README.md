@@ -1,31 +1,3 @@
-### 1. ¿Dónde se genera el README?
-
-Debe ir en la **raíz de tu repositorio** (justo donde ejecutaste `git init`).
-
-En tu caso es:
-`C:\Users\German\source\repos\FundaMicroProject\README.md`
-
-Para crearlo directamente en esa carpeta desde tu consola de PowerShell, ejecuta:
-
-```powershell
-New-Item -ItemType File -Name "README.md" -Force
-
-```
-
----
-
-### 2. ¿Qué contenido colocarle?
-
-El `README.md` debe guiar a los evaluadores técnicos paso a paso para levantar el proyecto sin tropiezos.
-
-Abre el archivo `README.md` (puedes usar `code README.md`, Notepad o el mismo Visual Studio) y pega lo siguiente:
-
-# Sistema de Gestión de Clientes - ASP.NET (VB.NET)
-
-Solución web desarrollada en **ASP.NET Web Forms (.NET Framework)** utilizando **Visual Basic .NET** y **Microsoft SQL Server**.
-
----
-
 ## Características Principales
 
 * **Autenticación Segura:** Control de acceso con hashing criptográfico SHA-256 en base de datos.
