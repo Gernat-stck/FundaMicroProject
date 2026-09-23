@@ -1,0 +1,11 @@
+﻿.vs/
+packages/
+*.sln.docstates
+*.suo
+*.user
+
+# Binarios de proyectos
+**/bin/
+**/obj/
+*.log
+*.tmp
